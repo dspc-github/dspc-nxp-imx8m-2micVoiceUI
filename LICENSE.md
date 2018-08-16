@@ -1,6 +1,6 @@
 # DSP CONCEPTS, Inc - EVALUATION DEMO LICENSE AGREEMENT FOR AUDIO WEAVER SOLUTION
 
-IMPORTANT NOTICE: THIS IS A LEGAL DOCUMENT BETWEEN YOU (EITHER AS AN INDIVIDUAL OR ENTITY, hereinafter ìLICENSEEî or ìYOUî) AND DSPCONCEPTS, INC. (ìDSPCî). DSPC IS WILLING TO LICENSE THE ACCOMPANYING DEMO SOFTWARE, ALGORITHMS, SPEAKER AND DEVELOPMENT BOARD (together, ìSOLUTIONî) TO YOU FOR YOUR INTERNAL EVALUATION PURPOSES ONLY UPON THE CONDITION THAT YOU ACCEPT ALL OF THE TERMS AND CONDITIONS CONTAINED IN THIS EVALUATION DEMO LICENSE AGREEMENT (ìAGREEMENTî). READ THE FOLLOWING TERMS AND CONDITIONS CAREFULLY BEFORE USING THE SOLUTION BECAUSE THEY DEFINE YOUR RIGHTS AND OBLIGATIONS WITH RESPECT TO THE SOLUTION, UNLESS YOU AND DSPC HAVE EXECUTED A SEPARATE AGREEMENT GOVERNING USE OF THE SOLUTION. IF YOU DO NOT AGREE TO THE TERMS OF THIS AGREEMENT, THEN DSPC IS UNWILLING TO LICENSE THE SOLUTION.  AN INDIVIDUAL WHO DOES NOT HAVE THE AUTHORITY TO BIND THE ENTITY USING THE SOLUTION SHALL NOT USE THE SOLUTION WITHOUT OBTAINING APPROVAL OF THIS AGREEMENT FROM A PERSON HAVING SUCH AUTHORITY.
+IMPORTANT NOTICE: THIS IS A LEGAL DOCUMENT BETWEEN YOU (EITHER AS AN INDIVIDUAL OR ENTITY, hereinafter ‚ÄúLICENSEE‚Äù or ‚ÄúYOU‚Äù) AND DSPCONCEPTS, INC. (‚ÄúDSPC‚Äù). DSPC IS WILLING TO LICENSE THE ACCOMPANYING DEMO SOFTWARE, ALGORITHMS, SPEAKER AND DEVELOPMENT BOARD (together, ‚ÄúSOLUTION‚Äù) TO YOU FOR YOUR INTERNAL EVALUATION PURPOSES ONLY UPON THE CONDITION THAT YOU ACCEPT ALL OF THE TERMS AND CONDITIONS CONTAINED IN THIS EVALUATION DEMO LICENSE AGREEMENT (‚ÄúAGREEMENT‚Äù). READ THE FOLLOWING TERMS AND CONDITIONS CAREFULLY BEFORE USING THE SOLUTION BECAUSE THEY DEFINE YOUR RIGHTS AND OBLIGATIONS WITH RESPECT TO THE SOLUTION, UNLESS YOU AND DSPC HAVE EXECUTED A SEPARATE AGREEMENT GOVERNING USE OF THE SOLUTION. IF YOU DO NOT AGREE TO THE TERMS OF THIS AGREEMENT, THEN DSPC IS UNWILLING TO LICENSE THE SOLUTION.  AN INDIVIDUAL WHO DOES NOT HAVE THE AUTHORITY TO BIND THE ENTITY USING THE SOLUTION SHALL NOT USE THE SOLUTION WITHOUT OBTAINING APPROVAL OF THIS AGREEMENT FROM A PERSON HAVING SUCH AUTHORITY.
 
 ## 1. DEFINITIONS. 
 
@@ -21,12 +21,12 @@ modules or programs, constitute or contain trade secrets of DSPC and its licenso
 
 ## 3. LICENSE GRANT.
 
-Subject to LICENSEEís compliance with the terms and conditions of this Agreement, DSPC hereby grants to LICENSEE during the term of this Agreement, a limited, non-exclusive, non-transferable, revocable license to install and use the SOLUTION solely on computer systems controlled by LICENSEE and solely for the purposes of LICENSEEís internal testing and evaluation and not for any other purpose, including production use of any type.
+Subject to LICENSEE‚Äôs compliance with the terms and conditions of this Agreement, DSPC hereby grants to LICENSEE during the term of this Agreement, a limited, non-exclusive, non-transferable, revocable license to install and use the SOLUTION solely on computer systems controlled by LICENSEE and solely for the purposes of LICENSEE‚Äôs internal testing and evaluation and not for any other purpose, including production use of any type.
 
 ## 4. LICENSE RESTRICTIONS. 
 
-LICENSEE shall not permit any person other than LICENSEEís employees to view, access, possess or use the SOLUTION and LICENSEE shall cause all suchemployees to abide by all terms and conditions imposed upon LICENSEE herein. Except as expressly permitted in this Agreement, LICENSEE shall not, and shall not permit any third party to: (a) modify, enhance or create any derivative work of, any part of the licensed SOLUTION; (b) access or use any part of the SOLUTION in order to create a similar or competitive product or service; (c) disassemble, decompile, reverse engineer the SOLUTION or otherwise attempt to gain access to its method of operation or source code; (d) sell, license, sublicense, publish, display, distribute, disseminate, assign, rent, lease, gift, host, commercial exploit, make available offer as a service, post, transmit, or otherwise transfer the SOLUTION, any copy or portion thereof, or any intellectual property rights therein to any third party, without DSPCís prior written consent; (e) alter, remove, or obscure any intellectual property
-information, notices or legends (pertaining to copyright, trade secrets, patents, trademarks, logos, proprietary and/or other intellectual property rights) that are affixed to or otherwise present in the SOLUTION (ìMarksî);
+LICENSEE shall not permit any person other than LICENSEE‚Äôs employees to view, access, possess or use the SOLUTION and LICENSEE shall cause all suchemployees to abide by all terms and conditions imposed upon LICENSEE herein. Except as expressly permitted in this Agreement, LICENSEE shall not, and shall not permit any third party to: (a) modify, enhance or create any derivative work of, any part of the licensed SOLUTION; (b) access or use any part of the SOLUTION in order to create a similar or competitive product or service; (c) disassemble, decompile, reverse engineer the SOLUTION or otherwise attempt to gain access to its method of operation or source code; (d) sell, license, sublicense, publish, display, distribute, disseminate, assign, rent, lease, gift, host, commercial exploit, make available offer as a service, post, transmit, or otherwise transfer the SOLUTION, any copy or portion thereof, or any intellectual property rights therein to any third party, without DSPC‚Äôs prior written consent; (e) alter, remove, or obscure any intellectual property
+information, notices or legends (pertaining to copyright, trade secrets, patents, trademarks, logos, proprietary and/or other intellectual property rights) that are affixed to or otherwise present in the SOLUTION (‚ÄúMarks‚Äù);
 
 ## 5. RESERVATION.
 
@@ -34,11 +34,11 @@ DSPC reserves all rights in the SOLUTION not expressly granted to LICENSEE in th
 
 ## 6. TERM AND TERMINATION; SURVIVAL.
 
-This Agreement (and the licenses granted hereunder) terminates 4 weeks from agreement date. YOU must then return all parts of the SOLUTION. This Agreement (and the licenses granted hereunder) will then automatically terminate after DSPCís receipt of the demo system, with or without notice from DSPC, if YOU breach any term of this Agreement. Sections 1, 2, 4, 5, 6, 7, 8 and 10 will survive any termination of this Agreement. If system is not returned to DSPC after termination, then DSPC reserves the right to enforce a charge of $300 to the demo system.
+This Agreement (and the licenses granted hereunder) terminates 4 weeks from agreement date. YOU must then return all parts of the SOLUTION. This Agreement (and the licenses granted hereunder) will then automatically terminate after DSPC‚Äôs receipt of the demo system, with or without notice from DSPC, if YOU breach any term of this Agreement. Sections 1, 2, 4, 5, 6, 7, 8 and 10 will survive any termination of this Agreement. If system is not returned to DSPC after termination, then DSPC reserves the right to enforce a charge of $300 to the demo system.
 
 ## 7. DISCLAIMER OF ALL WARRANTIES. 
 
-LICENSEE ACKNOWLEDGES AND AGREES THAT THE SOLUTION AND ALL PARTS THEREOF ARE PROVIDED "AS IS". DSPC DISCLAIMS ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NONINFRINGEMENT, TITLE AND ANY WARRANTIES ARISING OUT OF A COURSE OF DEALING OR USUAGE OF TRADE. DSPC DOES NOT PROVIDE ANY WARRANTY OR MAKE ANY REPRESENTATION, EITHER EXPRESS OR IMPLIED, THAT THE SOLUTION WILL MEET LICENSEEíS NEEDS OR EXPECTATIONS, THAT IT WILL FUNCTION AS ANTICIPATED, OR WILL OPERATE WITHOUT INTERRUPTION OR WILL BE ERROR-FREE. NO ADVICE OR INFORMATION, WHETHER ORAL OR WRITTEN, OBTAINED FROM DSPC OR ELSEWHERE, WILL CREATE ANY WARRANTY NOT EXPRESSLY STATED IN THESE TERMS AND CONDITIONS. THE FOREGOING LIMITATIONS WILL SURVIVE AND APPLY EVEN IF ANY LIMITED REMEDY SPECIFIED IN THIS AGREEMENT IS FOUND TO HAVE FAILED OF ITS ESSENTIAL PURPOSE.
+LICENSEE ACKNOWLEDGES AND AGREES THAT THE SOLUTION AND ALL PARTS THEREOF ARE PROVIDED "AS IS". DSPC DISCLAIMS ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NONINFRINGEMENT, TITLE AND ANY WARRANTIES ARISING OUT OF A COURSE OF DEALING OR USUAGE OF TRADE. DSPC DOES NOT PROVIDE ANY WARRANTY OR MAKE ANY REPRESENTATION, EITHER EXPRESS OR IMPLIED, THAT THE SOLUTION WILL MEET LICENSEE‚ÄôS NEEDS OR EXPECTATIONS, THAT IT WILL FUNCTION AS ANTICIPATED, OR WILL OPERATE WITHOUT INTERRUPTION OR WILL BE ERROR-FREE. NO ADVICE OR INFORMATION, WHETHER ORAL OR WRITTEN, OBTAINED FROM DSPC OR ELSEWHERE, WILL CREATE ANY WARRANTY NOT EXPRESSLY STATED IN THESE TERMS AND CONDITIONS. THE FOREGOING LIMITATIONS WILL SURVIVE AND APPLY EVEN IF ANY LIMITED REMEDY SPECIFIED IN THIS AGREEMENT IS FOUND TO HAVE FAILED OF ITS ESSENTIAL PURPOSE.
 
 ## 8. EXCLUSION OF CERTAIN DAMAGES; LIMITATION OF LIABILITY.
 
@@ -60,15 +60,15 @@ Under no circumstances shall DSPC have any obligation to LICENSEE, its customers
 
 ### 10.1. Compliance with Laws.
 
-LICENSEE shall comply with all applicable US and other laws and regulations in performance of this Agreement and use of SOLUTION. LICENSEE agrees to comply fully with all relevant export laws and regulations of the United States and any other applicable jurisdiction (ìExport Lawsî) to ensure that the SOLUTION is not: (a) exported or re-exported directly or indirectly in violation of Export Laws; or (b) used for any purposes prohibited by the Export Laws, including but not limited to nuclear, chemical, or biological weapons proliferation.
+LICENSEE shall comply with all applicable US and other laws and regulations in performance of this Agreement and use of SOLUTION. LICENSEE agrees to comply fully with all relevant export laws and regulations of the United States and any other applicable jurisdiction (‚ÄúExport Laws‚Äù) to ensure that the SOLUTION is not: (a) exported or re-exported directly or indirectly in violation of Export Laws; or (b) used for any purposes prohibited by the Export Laws, including but not limited to nuclear, chemical, or biological weapons proliferation.
 
 ### 10.2. U.S. Government End Users.
 
-The SOLUTION and all parts thereof are ìcommercial itemsî as that term is defined in FAR 2.101, consisting of ìcommercial computer softwareî and ìcommercial computer software documentation,î respectively, as such terms are used in FAR 12.212 and DFARS 227.7202. If the SOLUTION is being acquired by or on behalf of the U.S. Government, then, as provided in FAR 12.212 and DFARS 227.7202-1 through 227.7202-4, as applicable, the U.S. Governmentís rights in the SOLUTION will be only those specified in this Agreement.
+The SOLUTION and all parts thereof are ‚Äúcommercial items‚Äù as that term is defined in FAR 2.101, consisting of ‚Äúcommercial computer software‚Äù and ‚Äúcommercial computer software documentation,‚Äù respectively, as such terms are used in FAR 12.212 and DFARS 227.7202. If the SOLUTION is being acquired by or on behalf of the U.S. Government, then, as provided in FAR 12.212 and DFARS 227.7202-1 through 227.7202-4, as applicable, the U.S. Government‚Äôs rights in the SOLUTION will be only those specified in this Agreement.
 
 ### 10.3. No Assignment. 
 
-LICENSEE shall not assign or transfer this Agreement or any right or license granted hereunder nor delegate any obligation hereunder, by operation of law or otherwise, without DSPCís prior express written consent and any attempt to do so, without such consent will be void.
+LICENSEE shall not assign or transfer this Agreement or any right or license granted hereunder nor delegate any obligation hereunder, by operation of law or otherwise, without DSPC‚Äôs prior express written consent and any attempt to do so, without such consent will be void.
 
 ### 10.4. Choice of Law; Exclusive Forum. 
 
@@ -76,7 +76,7 @@ All actions arising out of this Agreement shall be governed by the laws of the S
 
 ### 10.5. Injunctive Relief. 
 
-It is understood and agreed that notwithstanding any other provisions of this Agreement, LICENSEEís breach of confidentiality obligations or provisions relating to LICENSORís intellectual property rights (including, without limitation, the SOLUTION) will cause irreparable damage for which recovery of money damages would be inadequate, and that LICENSOR will therefore be entitled to seek timely injunctive relief in any court of competent jurisdiction to protect its rights under this Agreement, in addition to any and all remedies available at law.
+It is understood and agreed that notwithstanding any other provisions of this Agreement, LICENSEE‚Äôs breach of confidentiality obligations or provisions relating to LICENSOR‚Äôs intellectual property rights (including, without limitation, the SOLUTION) will cause irreparable damage for which recovery of money damages would be inadequate, and that LICENSOR will therefore be entitled to seek timely injunctive relief in any court of competent jurisdiction to protect its rights under this Agreement, in addition to any and all remedies available at law.
 
 ### 10.6. Notices.
 
@@ -84,7 +84,7 @@ All notices required under this Agreement will be: (a) sent to LICENSEE at the e
 
 ### 10.7. Integration Clause.
 
-This Agreement is the complete and exclusive statement of the Agreement between YOU and DSPC regarding the subject matter hereof and supersedes all prior oral and written communications, agreements, representations, statements and undertakings with respect to such subjectmatter, including any terms and conditions on LICENSEEíS purchase order or other purchase documents. The terms and conditions of this Agreement shall supersede any different, conflicting or additional terms on such documents from Licensee and the terms on such documents shall be of no force or effect. No modification, termination, extension, renewal or waiver of, nor addition to the terms and conditions of this Agreement shall be binding upon DSPC unless specifically set forth in writing, and signed by an authorized official of DSPC.
+This Agreement is the complete and exclusive statement of the Agreement between YOU and DSPC regarding the subject matter hereof and supersedes all prior oral and written communications, agreements, representations, statements and undertakings with respect to such subjectmatter, including any terms and conditions on LICENSEE‚ÄôS purchase order or other purchase documents. The terms and conditions of this Agreement shall supersede any different, conflicting or additional terms on such documents from Licensee and the terms on such documents shall be of no force or effect. No modification, termination, extension, renewal or waiver of, nor addition to the terms and conditions of this Agreement shall be binding upon DSPC unless specifically set forth in writing, and signed by an authorized official of DSPC.
 
 ## Exhibit A
 
@@ -100,4 +100,4 @@ Attention Processing
 
 ### 3rd Party Algorithms
 
-Sensory THF ìAlexaî Trigger
+Interface for the Amazon WW 
